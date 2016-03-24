@@ -34,3 +34,4 @@ Notes
 - rampant currently only supports RAMP-f
 - rampant is currently only backed by ets
 - partition map handling is currently handled by in-memory mnesia
+- I reserve the right to make breaking API changes in the near future
