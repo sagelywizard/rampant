@@ -1,0 +1,16 @@
+{application, rampant,
+ [{description, "A RAMP implementation in Erlang"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib,
+    mnesia
+   ]},
+  {env,[]},
+  {modules, []},
+  {maintainers, []},
+  {licenses, []},
+  {links, []},
+  {mod, {rampant_app, []}}
+ ]}.
