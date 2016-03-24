@@ -6,7 +6,7 @@ A [RAMP](http://www.bailis.org/papers/ramp-sigmod2014.pdf) implementation in Erl
 Build
 -----
 
-    $ rebar3 compile
+    $ make compile
 
 Test
 ----
